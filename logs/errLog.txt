@@ -1,0 +1,4 @@
+20240312	12:06:48	68b16e7a-b12e-4a4e-b58c-ddbc3fdee721	ReferenceError: __dirname is not defined
+20240312	12:06:51	eac2bacd-c883-454c-a952-7a85cad8570a	ReferenceError: __dirname is not defined
+20240312	12:06:51	bd27212d-7b1c-4c8a-835e-c99c03e4581c	ReferenceError: __dirname is not defined
+20240312	12:07:34	cac23cdf-7371-4ebe-a88b-54243e701ae2	ReferenceError: __dirname is not defined
